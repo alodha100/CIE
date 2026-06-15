@@ -1,1 +1,158 @@
 
+Create Commands 
+
+=================
+
+👉“You are a Program Manager launching a new Hybrid Work Policy.”
+
+Create a detailed business proposal for implementing a Hybrid Work Policy in a large enterprise. Include executive summary, benefits, risks, and implementation plan.
+
+
+2.  Create a hand-drawn mindmap for Hybrid Work Strategy covering people, technology, policies, risks, and culture.
+
+3.  Create an infographic explaining benefits of hybrid work for employees and organizations
+
+4.  Create a 6-slide PowerPoint presentation on Hybrid Work Policy for leadership review.
+
+5.  Convert the hybrid work proposal into a polished, shareable PDF-style document for external stakeholders
+
+6.  Create a complete Hybrid Work Policy kit including employee email, FAQ, onboarding guideline, and manager checklist.
+
+7.  Find out a free slot in Neeraj's calendar and create a meeting invite for next Monday to discuss the 'Hybrid work policy document' 
+
+8. Write an email to Neeraj on the 'hybrid work policy' document pending work
+
+9.  Create a bar chart showing the business impact of hybrid work across key metrics.
+
+Include:
+- Productivity improvement
+- Employee satisfaction
+- Cost reduction
+- Talent acquisition
+- Work-life balance
+Make it presentation-ready and include 3 key insights for leadership.
+
+--------------------------------------
+
+10. Create a conceptual illustration of hybrid work showing employees working from home and office.
+
+Highlight benefits using visual elements:
+- Growth arrow for productivity
+- Happy employees for satisfaction
+- Money savings for cost reduction
+- Globe for talent acquisition
+- Balance scale for work-life balance
+
+Use a modern, semi-realistic digital style with clean composition.
+
+Make it suitable for a business storytelling slide.
+-------------------------------------------------------------
+11. Create a python code for Binary Search
+12. Open Prompt Lab and try out some of the prompts there 
+
+
+=============================================================
+
+====================================================
+Researcher Agent - Demo 1
+=====================
+
+Analyze the impact of hybrid work on businesses.
+
+Cover:
+- Productivity
+- Employee satisfaction
+- Cost reduction
+- Talent acquisition
+- Work-life balance
+
+Provide key insights, challenges, and 3 recommendations in a structured format.
+
+
+Researcher Agent - Demo 2
+======================
+
+Research the main types of EV charging connectors worldwide — AC Level 1, AC Level 2, CHAdeMO, CCS, GB/T, and Tesla/NACS. Provide a table summarizing each type’s geographic prevalence, adoption percentage, and any current trend or standardization movement. Include sources.
+
+
+Agent Creation (For a Specific Task)
+====================
+Steps - https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Exec/1b-copilot-studio-agent-builder.html
+
+Tell me about the ReleCloud Delivery Drone.
+How do I fix the drone error code D-101?
+What are the upsell opportunities for ReleCloud?
+What’s the duration of Phase 1 of the delivery drone project?
+
+==============================
+==============================
+
+Excel
+
+=============
+
+https://microsoft.sharepoint.com/:f:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/Forms/AllItems.aspx?id=%2Fteams%2FMTTCentral%2FImmersion%20Experience%20Source%20Control%2FMS%2D4019%2ES%2FPrompt%20Guides%2F6%2E%20Edit%20with%20Copilot%20in%20Excel&p=true&share=cgraeHUSsLNkTpCtuuMJ58C1EgUCmtxILsmOlboMY34svx8hFg
+
+
+
+Open an excel sheet and save it and run this command to populate the file
+
+
+Create a profit and loss model for a fitness apparel company. Build linked spreadsheet tabs including assumptions, revenue, expenses (inventory, retail space, salaries, and marketing), and a P&L summary. Generate a 12-month forecast starting in January 2026 that shows month-by-month revenue growth, retention, and unit economics.
+
+
+2. Zava-Global-Inventory.xlsx
+
+
+Create a dashboard showing inventory levels across locations, products, and warehouses. Highlight items at risk of selling out and surface insights that could help optimize order fulfillment.
+
+3. Zava-Financial-Workbook.xlsx
+
+
+Build an executive dashboard with charts and visuals showing our 2025 year-to-date sales performance across products and regions.
+
+===========================================
+
+Word Demo
+
+===============
+
+Demo 1 - draft from a prompt
+
+Open a blank word document - Open copilot or use the "Describe what you'd like to draft with copilot" 
+
+Write a project proposal for a cloud migration initiative. Make it formal and concise, suitable for executive review
+
+
+Demo - 2 - rewrite and tone shift
+
+"Make this more concise."
+"Rewrite this in a warmer, more welcoming tone."
+"Make this suitable for a non-technical audience."
+
+Demo 3 -  summarize a long document
+
+Upload or open a multi-page Word doc (a policy doc, annual report, or long SOP works well). Open the Copilot chat pane and ask it to summarize or answer questions about the doc.
+
+
+"Summarize this document in 5 bullet points."
+"What are the key action items mentioned in this document?"
+"Who is the target audience for this document?"
+
+Demo 4 - draft from reference files
+
+Reference mode
+
+Use the "/" reference picker in Draft with Copilot to pull in content from another file or email. Show how Copilot can synthesize content from multiple M365 sources into a new document.
+Sample scenario
+"Draft a meeting follow-up report using /[meeting transcript file] and /[project status doc]."
+"Create a training summary based on /[course outline] and /[feedback form responses]."
+
+
+=========================
+=========================
+Presentation - Slide creation demo
+
+https://www.youtube.com/watch?v=UCRK4PYnm7Q
+
+
