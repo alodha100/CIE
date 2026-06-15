@@ -1,0 +1,262 @@
+Create Commands
+Role Prompt
+
+You are a Program Manager launching a new Hybrid Work Policy.
+
+Tasks
+
+
+Create a detailed business proposal for implementing a Hybrid Work Policy in a large enterprise. Include:
+
+Executive summary
+Benefits
+Risks
+Implementation plan
+
+
+
+Create a hand-drawn mindmap for Hybrid Work Strategy covering:
+
+People
+Technology
+Policies
+Risks
+Culture
+
+
+
+Create an infographic explaining benefits of hybrid work for:
+
+Employees
+Organisations
+
+
+
+Create a 6-slide PowerPoint presentation on Hybrid Work Policy for leadership review.
+
+
+Convert the hybrid work proposal into a polished, shareable PDF-style document for external stakeholders.
+
+
+Create a complete Hybrid Work Policy kit including:
+
+Employee email
+FAQ
+Onboarding guideline
+Manager checklist
+
+
+
+Find a free slot in Neeraj’s calendar and create a meeting invite for next Monday to discuss:
+
+"Hybrid work policy document"
+
+
+
+Write an email to Neeraj regarding pending work on the hybrid work policy.
+
+
+
+Data Visualisation Task
+Create a bar chart showing the business impact of hybrid work across key metrics:
+
+Productivity improvement
+Employee satisfaction
+Cost reduction
+Talent acquisition
+Work-life balance
+
+Requirements:
+
+Make it presentation-ready
+Include 3 key insights for leadership
+
+
+Creative Visual Task
+Create a conceptual illustration of hybrid work showing employees working from home and office.
+Highlight benefits using:
+
+Growth arrow → Productivity
+Happy employees → Satisfaction
+Money savings → Cost reduction
+Globe → Talent acquisition
+Balance scale → Work-life balance
+
+Style:
+
+Modern
+Semi-realistic
+Clean composition
+
+👉 Make it suitable for a business storytelling slide.
+
+Coding Task
+
+Create Python code for Binary Search
+
+
+Additional Task
+
+Open Prompt Lab and try out prompts
+
+
+Researcher Agent – Demo 1
+Analyze the impact of hybrid work on businesses.
+Cover:
+
+Productivity
+Employee satisfaction
+Cost reduction
+Talent acquisition
+Work-life balance
+
+Output:
+
+Key insights
+Challenges
+3 recommendations (structured format)
+
+
+Researcher Agent – Demo 2
+Research the main types of EV charging connectors worldwide:
+
+AC Level 1
+AC Level 2
+CHAdeMO
+CCS
+GB/T
+Tesla/NACS
+
+Output:
+
+Table including:
+
+Geographic prevalence
+Adoption percentage
+Trends / standardisation movements
+
+
+Include sources
+
+
+Agent Creation (Specific Task)
+Steps:
+Copilot Studio Agent Builder Guide
+Sample Queries:
+
+Tell me about the ReleCloud Delivery Drone
+How do I fix drone error code D-101?
+What are the upsell opportunities for ReleCloud?
+What is the duration of Phase 1 of the delivery drone project?
+
+
+Excel
+Open Prompt Guide in SharePoint
+Tasks
+
+
+Create a profit and loss model for a fitness apparel company:
+
+Linked spreadsheet tabs:
+
+Assumptions
+Revenue
+Expenses:
+
+Inventory
+Retail space
+Salaries
+Marketing
+
+
+P&L summary
+
+
+12-month forecast starting January 2026
+Show:
+
+Month-by-month revenue growth
+Retention
+Unit economics
+
+
+
+
+
+Zava-Global-Inventory.xlsx
+
+Create a dashboard showing:
+
+Inventory levels across locations, products, warehouses
+
+
+Highlight:
+
+Items at risk of selling out
+
+
+Provide insights for optimisation
+
+
+
+Zava-Financial-Workbook.xlsx
+
+Build an executive dashboard showing:
+
+2025 YTD sales performance
+Products and regions
+
+
+
+
+
+
+Word Demo
+Demo 1 – Draft from Prompt
+
+Write a project proposal for a cloud migration initiative
+Style:
+
+Formal
+Concise
+Suitable for executive review
+
+
+
+
+Demo 2 – Rewrite & Tone Shift
+
+"Make this more concise."
+"Rewrite in a warmer, more welcoming tone."
+"Make this suitable for a non-technical audience."
+
+
+Demo 3 – Summarise Document
+
+"Summarize this document in 5 bullet points."
+"What are the key action items?"
+"Who is the target audience?"
+
+
+Demo 4 – Draft from Reference Files
+Use reference mode (/) to pull content:
+Examples:
+
+
+Draft a meeting follow-up report using:
+
+/[meeting transcript file]
+/[project status doc]
+
+
+
+Create a training summary using:
+
+/[course outline]
+/[feedback responses]
+
+
+
+
+Presentation – Slide Creation Demo
+Watch Demo Video
