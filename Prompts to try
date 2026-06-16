@@ -74,6 +74,9 @@ Researcher Agent - Demo 2
 
 Research the main types of EV charging connectors worldwide — AC Level 1, AC Level 2, CHAdeMO, CCS, GB/T, and Tesla/NACS. Provide a table summarizing each type’s geographic prevalence, adoption percentage, and any current trend or standardization movement. Include sources.
 
+Analyst Agent 
+=======================
+Create a sample dataset for 6 departments at Contoso Ltd showing productivity score, office attendance rate, and employee satisfaction — before and after implementing a Hybrid Work Policy. Analyse the data, highlight the most improved department, and build a comparison chart.
 
 Agent Creation (For a Specific Task)
 ====================
