@@ -104,7 +104,7 @@ Open an excel sheet and save it and run this command to populate the file
 Create a profit and loss model for a fitness apparel company. Build linked spreadsheet tabs including assumptions, revenue, expenses (inventory, retail space, salaries, and marketing), and a P&L summary. Generate a 12-month forecast starting in January 2026 that shows month-by-month revenue growth, retention, and unit economics.
 
 
-2. Zava-Global-Inventory.xlsx
+2. Zava-Global-Inventory.xlsx (Avaialble in github, search for it) 
 
 
 Create a dashboard showing inventory levels across locations, products, and warehouses. Highlight items at risk of selling out and surface insights that could help optimize order fulfillment.
